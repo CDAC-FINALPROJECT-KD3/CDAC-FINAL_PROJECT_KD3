@@ -1,0 +1,5 @@
+package com.hotelbooking.utils;
+
+public class JWTuUtils {
+
+}
