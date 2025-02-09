@@ -1,5 +1,0 @@
-package com.hotelbooking.dto;
-
-public class LoginRequest {
-
-}
