@@ -50,7 +50,7 @@ public class BookedRoom {
 	private int totalNumOfGuest;
 	
 	@Column(name = "confirmation_Code")
-	private String bookingCondirmationCode;
+	private String bookingConfirmationCode;
 	
 	@ManyToOne(fetch = FetchType.LAZY)
 	@JoinColumn(name = "room_id")
