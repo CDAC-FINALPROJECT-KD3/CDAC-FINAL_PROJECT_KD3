@@ -33,6 +33,7 @@ import com.hotelbooking.model.BookedRoom;
 import com.hotelbooking.model.Room;
 import com.hotelbooking.response.BookingResponse;
 import com.hotelbooking.response.RoomResponse;
+import com.hotelbooking.service.BookingService;
 import com.hotelbooking.service.IRoomService;
 
 import lombok.RequiredArgsConstructor;
@@ -42,6 +43,7 @@ import lombok.RequiredArgsConstructor;
 @RequiredArgsConstructor
 public class RoomController {
 	private final IRoomService roomService;
+	private final BookingService bookingService;
 	
 	@PostMapping("/add/new-room")
 	public ResponseEntity<RoomResponse> addNewRoom(@RequestParam("photo") MultipartFile photo,@RequestParam("roomType") String roomType,@RequestParam("roomPrice")BigDecimal roomPrice) throws SerialException, IOException, SQLException
@@ -148,6 +150,6 @@ public class RoomController {
     }
 
     private List<BookedRoom> getAllBookingsByRoomId(Long roomId) {
-        return bookingService.getAllBookingsByRoomId(roomId);
+        return bookingService.getAllBookingByRoomId(roomId);
     }
 } 
