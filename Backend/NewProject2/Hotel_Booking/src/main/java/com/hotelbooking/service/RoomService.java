@@ -37,4 +37,29 @@ public class RoomService implements IRoomService {
 		return roomRepository.save(room);
 	}
 
+	@Override
+	public List<String> getAllRoomTypes() {
+		
+		return roomRepository.findDistinctRoomTypes();
+	}
+
+	@Override
+	public List<Room> getAllRooms() {
+		return roomRepository.findAll();
+	}
+
+	@Override
+	public byte[] getRoomPhotoByRoomId(Long roomId) throws SQLException, ResourceNotFoundException {
+		Optional<Room> theRoom = roomRepository.findById(roomId);
+		if(theRoom.isEmpty()) {
+			throw new ResourceNotFoundException("Sorry,Room not found");
+		}
+		Blob photoBlob = theRoom.get().getPhoto();
+		if(photoBlob!=null) {
+			return photoBlob.getBytes(1, (int)photoBlob.length());
+		}
+		return null;
+	}
+	
+
 }
