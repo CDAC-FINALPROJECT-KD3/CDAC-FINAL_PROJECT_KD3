@@ -1,8 +1,0 @@
-1739187999275	Rename type 'RoomServiceImpl'
-1739188016846	Rename type 'BookedRoomServiceImpl'
-1739188286447	Rename package 'response'
-1739188904092	Delete element
-1739198126898	Rename type 'BookedRoomService'
-1739230654249	Rename type 'IBookedRoomService'
-1739230664005	Rename type 'IBookingRoomService'
-1739231774943	Rename type 'BookedRoomRepository'
