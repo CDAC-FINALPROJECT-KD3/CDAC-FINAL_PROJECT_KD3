@@ -6,3 +6,24 @@
 1739230654249	Rename type 'IBookedRoomService'
 1739230664005	Rename type 'IBookingRoomService'
 1739231774943	Rename type 'BookedRoomRepository'
+1739253290962	Rename package 'User'
+1739260934170	Rename package 'com.hotelbooking.security.User'
+1739260943543	Delete elements
+1739261656195	Rename package 'User'
+1739261860699	Rename package 'jwt'
+1739261957222	Delete element
+1739265481180	Delete element
+1739265490229	Delete element
+1739265495039	Delete element
+1739265501349	Delete element
+1739265510022	Delete element
+1739265517136	Delete element
+1739265525993	Delete element
+1739265533471	Delete element
+1739265541117	Delete element
+1739265552129	Delete element
+1739265561246	Delete element
+1739265566958	Delete element
+1739265579556	Delete element
+1739265585528	Delete element
+1739265593545	Delete element

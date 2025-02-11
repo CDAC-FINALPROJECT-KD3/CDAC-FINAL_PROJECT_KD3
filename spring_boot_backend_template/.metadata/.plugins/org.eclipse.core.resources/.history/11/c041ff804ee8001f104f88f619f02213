@@ -1,0 +1,8 @@
+package com.hotelbooking.security.User;
+
+public class Snippet {
+	public static void main(String[] args) {
+		
+	}
+}
+
