@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "U5xGU4yCewtt2rQpUIvFhvB3MOuJD7GwSOQUvP8QUPM=",
+  "Source": "HotelWebBackEnd",
+  "BasePath": "_content/HotelWebBackEnd",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
