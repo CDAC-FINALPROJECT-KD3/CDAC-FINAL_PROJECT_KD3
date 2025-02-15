@@ -3,6 +3,7 @@ import { addRoom } from "../utils/ApiFunctions"
 import RoomTypeSelector from "../common/RoomtypeSelector"
 import { Link } from "react-router-dom"
 
+
 const AddRoom = () => {
 	const [newRoom, setNewRoom] = useState({	
 		photo: null,

@@ -1,3 +1,12 @@
+import React from "react"
+
+const Home = () => {
+
+    return (
+        <div>
+            <h2>Welcome to the home page</h2>
+        </div>
+    )
 import React, { useContext } from "react"
 import MainHeader from "../layout/MainHeader"
 import HotelService from "../common/HotelService"

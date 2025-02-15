@@ -6,7 +6,6 @@ import ExistingRooms from "./components/room/ExistingRooms"
 import Home from "./components/home/Home"
 import EditRoom from "./components/room/EditRoom"
 import { BrowserRouter as Router, Routes, Route } from "react-router-dom"
-
 import Footer from "./components/layout/Footer"
 import NavBar from "./components/layout/NavBar"
 import RoomListing from "./components/room/RoomListing"
@@ -26,6 +25,10 @@ function App() {
 						<Route path="/" element={<Home />} />
 						<Route path="/edit-room/:roomId" element={<EditRoom />} />
 						<Route path="/existing-rooms" element={<ExistingRooms />} />
+            <Route path="/add-room" element={<AddRoom />} />
+
+				</Routes>
+      </Router>
            				<Route path="/add-room" element={<AddRoom />} />
 						   <Route path="/book-room/:roomId" element={<Checkout />} />
 						   <Route path="/browse-all-rooms" element={<RoomListing />} />
