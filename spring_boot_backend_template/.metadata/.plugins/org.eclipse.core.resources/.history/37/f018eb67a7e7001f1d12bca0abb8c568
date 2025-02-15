@@ -1,0 +1,27 @@
+package com.hotelbooking.controller;
+
+import org.springframework.http.ResponseEntity;
+import org.springframework.web.bind.annotation.RestController;
+
+import com.hotelbooking.service.IRoomService;
+
+import lombok.RequiredArgsConstructor;
+
+@RestController
+@RequiredArgsConstructor
+@RequestMapping("/rooms")
+public class RoomController {
+    private final IRoomService roomService;
+    private final BookingService bookingService;
+
+    @PostMapping("/add/new-room")
+    @PreAuthorize("hasRole('ROLE_ADMIN')")
+    public ResponseEntity<RoomResponse> addNewRoom(
+            @RequestParam("photo") MultipartFile photo,
+            @RequestParam("roomType") String roomType,
+            @RequestParam("roomPrice") BigDecimal roomPrice) throws SQLException, IOException {
+        Room savedRoom = roomService.addNewRoom(photo, roomType, roomPrice);
+        RoomResponse response = new RoomResponse(savedRoom.getId(), savedRoom.getRoomType(),
+                savedRoom.getRoomPrice());
+        return ResponseEntity.ok(response);
+    }
