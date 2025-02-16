@@ -10,12 +10,16 @@ import AdminHome from './screens/AdminHome'
 import { ToastContainer} from 'react-toastify';
 import 'react-toastify/dist/ReactToastify.css';
 import UserList from './screens/User_List';
+import AddHotel from './screens/AddHotel';
+import AddRoomCategory from './screens/AddRoomCategory';
 function App() {
   return (
     <div>
       <Routes>
         <Route path='/AdminHome' element={<AdminHome />} />
         <Route path='/UserList' element={<UserList />} />
+        <Route path='/addHotel' element={<AddHotel />} />
+        <Route path='/addRoomCategory' element={<AddRoomCategory/>}/>
 
         <Route path='/' element={<Home />} />
         <Route path='/Home' element={<Home />} />
