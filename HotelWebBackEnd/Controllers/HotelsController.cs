@@ -77,8 +77,29 @@ namespace HotelWebBackEnd.Controllers
             }
         }
 
+        [HttpGet("WithImg")]
+        public async Task<ActionResult<IEnumerable<HotelsDTOResponse>>> GethotelsWithImg()
+        {
+            if (_context.hotels == null)
+            {
+                return NotFound();
+            }
+
+            var hotels = await _context.hotels
+                .Select(hotel => new HotelsDTOResponse
+                {
+                    Id = hotel.Id,
+                    Hotel_Name = hotel.Hotel_Name,
+                    Address = hotel.Address,
+                    City = hotel.City,
+                    Description = hotel.Description,
+                    Ratings = hotel.Ratings,
+                    ImageUrl = $"{Request.Scheme}://{Request.Host}/images/{hotel.Images}" // Generate full URL for images
+                }).ToListAsync();
+
+            return Ok(hotels);
+        }
 
 
-       
     }
 }
