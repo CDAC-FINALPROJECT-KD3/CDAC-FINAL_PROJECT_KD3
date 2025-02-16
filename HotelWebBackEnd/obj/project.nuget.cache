@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "G1ZJoyGV/D8=",
+  "dgSpecHash": "6df+zNZnqvo=",
   "success": true,
-  "projectFilePath": "D:\\C DAC\\A-CDAC Class notes and pdfs\\D. WebProgramming\\Project_cDac\\HotelWebBackEnd\\HotelWebBackEnd.csproj",
+  "projectFilePath": "D:\\C DAC\\my git Dac assignment data\\CDAC-FINAL_PROJECT_KD3\\HotelWebBackEnd\\HotelWebBackEnd.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\drnsh\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\drnsh\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\6.0.35\\microsoft.aspnetcore.authentication.jwtbearer.6.0.35.nupkg.sha512",
