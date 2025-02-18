@@ -41,5 +41,9 @@ namespace HotelWebBackEnd.Model
         //// Timestamp for UpdatedAt
         //[Column("updatedAt")]
         //public DateTime UpdatedAt { get; set; } = DateTime.UtcNow;
+
+
+        // Navigation Property
+        //public List<Booking> Bookings { get; set; }
     }
 }

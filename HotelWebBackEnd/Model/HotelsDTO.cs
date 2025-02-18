@@ -16,6 +16,6 @@ namespace HotelWebBackEnd.Model
 
         public IFormFile ImagesDto { get; set; }
 
-
+        
     }
 }
