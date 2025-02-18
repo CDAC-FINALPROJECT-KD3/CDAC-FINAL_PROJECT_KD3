@@ -57,6 +57,8 @@ namespace HotelWebBackEnd
             }
 
             app.UseCors();
+            app.UseStaticFiles(); // Enables serving static files from wwwroot
+
             app.UseAuthorization();
             app.UseAuthentication();
 

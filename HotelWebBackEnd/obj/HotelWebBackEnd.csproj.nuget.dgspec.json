@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\C DAC\\my git Dac assignment data\\CDAC-FINAL_PROJECT_KD3\\HotelWebBackEnd\\HotelWebBackEnd.csproj": {}
+    "D:\\C DAC\\A-CDAC Class notes and pdfs\\D. WebProgramming\\Project_cDac\\HotelWebBackEnd\\HotelWebBackEnd.csproj": {}
   },
   "projects": {
-    "D:\\C DAC\\my git Dac assignment data\\CDAC-FINAL_PROJECT_KD3\\HotelWebBackEnd\\HotelWebBackEnd.csproj": {
+    "D:\\C DAC\\A-CDAC Class notes and pdfs\\D. WebProgramming\\Project_cDac\\HotelWebBackEnd\\HotelWebBackEnd.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\C DAC\\my git Dac assignment data\\CDAC-FINAL_PROJECT_KD3\\HotelWebBackEnd\\HotelWebBackEnd.csproj",
+        "projectUniqueName": "D:\\C DAC\\A-CDAC Class notes and pdfs\\D. WebProgramming\\Project_cDac\\HotelWebBackEnd\\HotelWebBackEnd.csproj",
         "projectName": "HotelWebBackEnd",
-        "projectPath": "D:\\C DAC\\my git Dac assignment data\\CDAC-FINAL_PROJECT_KD3\\HotelWebBackEnd\\HotelWebBackEnd.csproj",
+        "projectPath": "D:\\C DAC\\A-CDAC Class notes and pdfs\\D. WebProgramming\\Project_cDac\\HotelWebBackEnd\\HotelWebBackEnd.csproj",
         "packagesPath": "C:\\Users\\drnsh\\.nuget\\packages\\",
-        "outputPath": "D:\\C DAC\\my git Dac assignment data\\CDAC-FINAL_PROJECT_KD3\\HotelWebBackEnd\\obj\\",
+        "outputPath": "D:\\C DAC\\A-CDAC Class notes and pdfs\\D. WebProgramming\\Project_cDac\\HotelWebBackEnd\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -68,11 +68,19 @@
               "target": "Package",
               "version": "[6.0.35, )"
             },
+            "Microsoft.EntityFrameworkCore.Sqlite": {
+              "target": "Package",
+              "version": "[6.0.35, )"
+            },
             "Microsoft.EntityFrameworkCore.Tools": {
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
               "suppressParent": "All",
               "target": "Package",
               "version": "[6.0.35, )"
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[6.0.18, )"
             },
             "Pomelo.EntityFrameworkCore.MySql": {
               "target": "Package",

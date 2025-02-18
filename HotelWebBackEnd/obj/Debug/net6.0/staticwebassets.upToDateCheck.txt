@@ -1,0 +1,15 @@
+wwwroot\images\0100bb16-bccd-4236-8fda-a781c5d94e77_hotal.png
+wwwroot\images\09575ad3-e462-4b6e-b3cb-47924198acd1_hotel4.png
+wwwroot\images\14bc989a-41c7-4c58-8026-dc23873903d2_selfdeclaration.jpg
+wwwroot\images\3738209d-1a75-435c-9895-eb0554f5f743_hotal.png
+wwwroot\images\55b8d066-ef34-49b2-a7ed-86197762c4a1_hotal8.png
+wwwroot\images\6b9f92c2-73b3-4bf6-a5a7-6f7a3da07fd5_hotal.png
+wwwroot\images\70542fdf-ac02-4803-a1c5-2bb2cad147aa_hotel9.png
+wwwroot\images\9dfb19c2-ce58-4e6b-8911-490d293c11eb_hotal2.png
+wwwroot\images\abdea0e4-92dc-437a-9865-7da378ca5c8d_hotal9.png
+wwwroot\images\ad9a1810-2d56-4b4c-acdf-17520eeed042_1declaration.jpg
+wwwroot\images\d21334e7-b694-44cb-9b0d-c88767195504_hotal.png
+wwwroot\images\d691725d-0c41-49d2-a800-16b30e8d2e71_hotel4.png
+wwwroot\images\ec577032-ee90-434e-a516-32356995937d_1declaration.jpg
+wwwroot\images\f1869d88-ae09-4c02-a3ed-e3c435ddab82_hotal1.png
+wwwroot\images\f1a9377a-a3c3-4575-bdf2-85faa54987b6_hotal.png

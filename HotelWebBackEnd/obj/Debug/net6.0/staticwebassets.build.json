@@ -1,12 +1,1567 @@
 {
   "Version": 1,
-  "Hash": "U5xGU4yCewtt2rQpUIvFhvB3MOuJD7GwSOQUvP8QUPM=",
+  "Hash": "quaTED8a7rsx7bcASXPLtm7rMu3Iq4XY+XZJC3iSb2g=",
   "Source": "HotelWebBackEnd",
   "BasePath": "_content/HotelWebBackEnd",
   "Mode": "Default",
   "ManifestType": "Build",
   "ReferencedProjectsConfiguration": [],
-  "DiscoveryPatterns": [],
-  "Assets": [],
-  "Endpoints": []
+  "DiscoveryPatterns": [
+    {
+      "Name": "HotelWebBackEnd\\wwwroot",
+      "Source": "HotelWebBackEnd",
+      "ContentRoot": "D:\\C DAC\\A-CDAC Class notes and pdfs\\D. WebProgramming\\Project_cDac\\HotelWebBackEnd\\wwwroot\\",
+      "BasePath": "_content/HotelWebBackEnd",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "D:\\C DAC\\A-CDAC Class notes and pdfs\\D. WebProgramming\\Project_cDac\\HotelWebBackEnd\\wwwroot\\images\\0100bb16-bccd-4236-8fda-a781c5d94e77_hotal.png",
+      "SourceId": "HotelWebBackEnd",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\C DAC\\A-CDAC Class notes and pdfs\\D. WebProgramming\\Project_cDac\\HotelWebBackEnd\\wwwroot\\",
+      "BasePath": "_content/HotelWebBackEnd",
+      "RelativePath": "images/0100bb16-bccd-4236-8fda-a781c5d94e77_hotal#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "9548wxxodc",
+      "Integrity": "/Rpd97bAEoZSgvKTikZSlU3VXMzNe5iOdw6M51tV558=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\0100bb16-bccd-4236-8fda-a781c5d94e77_hotal.png"
+    },
+    {
+      "Identity": "D:\\C DAC\\A-CDAC Class notes and pdfs\\D. WebProgramming\\Project_cDac\\HotelWebBackEnd\\wwwroot\\images\\09575ad3-e462-4b6e-b3cb-47924198acd1_hotel4.png",
+      "SourceId": "HotelWebBackEnd",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\C DAC\\A-CDAC Class notes and pdfs\\D. WebProgramming\\Project_cDac\\HotelWebBackEnd\\wwwroot\\",
+      "BasePath": "_content/HotelWebBackEnd",
+      "RelativePath": "images/09575ad3-e462-4b6e-b3cb-47924198acd1_hotel4#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "dj3e2xly1h",
+      "Integrity": "aT+iYhBYStJSXiukZzOLB4YyKyqmT3o0bDEFO8U92k4=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\09575ad3-e462-4b6e-b3cb-47924198acd1_hotel4.png"
+    },
+    {
+      "Identity": "D:\\C DAC\\A-CDAC Class notes and pdfs\\D. WebProgramming\\Project_cDac\\HotelWebBackEnd\\wwwroot\\images\\14bc989a-41c7-4c58-8026-dc23873903d2_selfdeclaration.jpg",
+      "SourceId": "HotelWebBackEnd",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\C DAC\\A-CDAC Class notes and pdfs\\D. WebProgramming\\Project_cDac\\HotelWebBackEnd\\wwwroot\\",
+      "BasePath": "_content/HotelWebBackEnd",
+      "RelativePath": "images/14bc989a-41c7-4c58-8026-dc23873903d2_selfdeclaration#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "omwksi7cm6",
+      "Integrity": "0InBY8rXCwKqoF4X72ZL2opZ5wI6fMfTRRstmz1sI60=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\14bc989a-41c7-4c58-8026-dc23873903d2_selfdeclaration.jpg"
+    },
+    {
+      "Identity": "D:\\C DAC\\A-CDAC Class notes and pdfs\\D. WebProgramming\\Project_cDac\\HotelWebBackEnd\\wwwroot\\images\\3738209d-1a75-435c-9895-eb0554f5f743_hotal.png",
+      "SourceId": "HotelWebBackEnd",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\C DAC\\A-CDAC Class notes and pdfs\\D. WebProgramming\\Project_cDac\\HotelWebBackEnd\\wwwroot\\",
+      "BasePath": "_content/HotelWebBackEnd",
+      "RelativePath": "images/3738209d-1a75-435c-9895-eb0554f5f743_hotal#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "9548wxxodc",
+      "Integrity": "/Rpd97bAEoZSgvKTikZSlU3VXMzNe5iOdw6M51tV558=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\3738209d-1a75-435c-9895-eb0554f5f743_hotal.png"
+    },
+    {
+      "Identity": "D:\\C DAC\\A-CDAC Class notes and pdfs\\D. WebProgramming\\Project_cDac\\HotelWebBackEnd\\wwwroot\\images\\55b8d066-ef34-49b2-a7ed-86197762c4a1_hotal8.png",
+      "SourceId": "HotelWebBackEnd",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\C DAC\\A-CDAC Class notes and pdfs\\D. WebProgramming\\Project_cDac\\HotelWebBackEnd\\wwwroot\\",
+      "BasePath": "_content/HotelWebBackEnd",
+      "RelativePath": "images/55b8d066-ef34-49b2-a7ed-86197762c4a1_hotal8#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "8yuknbl8wv",
+      "Integrity": "UFOkhzCMVkviSdsFtveVK2FbDB8EM174uZKgjkXm1Jo=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\55b8d066-ef34-49b2-a7ed-86197762c4a1_hotal8.png"
+    },
+    {
+      "Identity": "D:\\C DAC\\A-CDAC Class notes and pdfs\\D. WebProgramming\\Project_cDac\\HotelWebBackEnd\\wwwroot\\images\\6b9f92c2-73b3-4bf6-a5a7-6f7a3da07fd5_hotal.png",
+      "SourceId": "HotelWebBackEnd",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\C DAC\\A-CDAC Class notes and pdfs\\D. WebProgramming\\Project_cDac\\HotelWebBackEnd\\wwwroot\\",
+      "BasePath": "_content/HotelWebBackEnd",
+      "RelativePath": "images/6b9f92c2-73b3-4bf6-a5a7-6f7a3da07fd5_hotal#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "9548wxxodc",
+      "Integrity": "/Rpd97bAEoZSgvKTikZSlU3VXMzNe5iOdw6M51tV558=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\6b9f92c2-73b3-4bf6-a5a7-6f7a3da07fd5_hotal.png"
+    },
+    {
+      "Identity": "D:\\C DAC\\A-CDAC Class notes and pdfs\\D. WebProgramming\\Project_cDac\\HotelWebBackEnd\\wwwroot\\images\\70542fdf-ac02-4803-a1c5-2bb2cad147aa_hotel9.png",
+      "SourceId": "HotelWebBackEnd",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\C DAC\\A-CDAC Class notes and pdfs\\D. WebProgramming\\Project_cDac\\HotelWebBackEnd\\wwwroot\\",
+      "BasePath": "_content/HotelWebBackEnd",
+      "RelativePath": "images/70542fdf-ac02-4803-a1c5-2bb2cad147aa_hotel9#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "cbmrcthjtf",
+      "Integrity": "SGasJwdAya2qbg8VLM72IGo+xg4YZ9xWK2HeWf3RjgU=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\70542fdf-ac02-4803-a1c5-2bb2cad147aa_hotel9.png"
+    },
+    {
+      "Identity": "D:\\C DAC\\A-CDAC Class notes and pdfs\\D. WebProgramming\\Project_cDac\\HotelWebBackEnd\\wwwroot\\images\\9dfb19c2-ce58-4e6b-8911-490d293c11eb_hotal2.png",
+      "SourceId": "HotelWebBackEnd",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\C DAC\\A-CDAC Class notes and pdfs\\D. WebProgramming\\Project_cDac\\HotelWebBackEnd\\wwwroot\\",
+      "BasePath": "_content/HotelWebBackEnd",
+      "RelativePath": "images/9dfb19c2-ce58-4e6b-8911-490d293c11eb_hotal2#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "cbowggyxhb",
+      "Integrity": "GPP+Vm/2OSAViNRRZeGed9HYobZJwmDC63VKmf+rA/c=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\9dfb19c2-ce58-4e6b-8911-490d293c11eb_hotal2.png"
+    },
+    {
+      "Identity": "D:\\C DAC\\A-CDAC Class notes and pdfs\\D. WebProgramming\\Project_cDac\\HotelWebBackEnd\\wwwroot\\images\\abdea0e4-92dc-437a-9865-7da378ca5c8d_hotal9.png",
+      "SourceId": "HotelWebBackEnd",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\C DAC\\A-CDAC Class notes and pdfs\\D. WebProgramming\\Project_cDac\\HotelWebBackEnd\\wwwroot\\",
+      "BasePath": "_content/HotelWebBackEnd",
+      "RelativePath": "images/abdea0e4-92dc-437a-9865-7da378ca5c8d_hotal9#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "6m63s8n5fa",
+      "Integrity": "wk+i4sUPWtP5rOBne48mJqZW/Onc1cVspu5zERlLCY0=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\abdea0e4-92dc-437a-9865-7da378ca5c8d_hotal9.png"
+    },
+    {
+      "Identity": "D:\\C DAC\\A-CDAC Class notes and pdfs\\D. WebProgramming\\Project_cDac\\HotelWebBackEnd\\wwwroot\\images\\ad9a1810-2d56-4b4c-acdf-17520eeed042_1declaration.jpg",
+      "SourceId": "HotelWebBackEnd",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\C DAC\\A-CDAC Class notes and pdfs\\D. WebProgramming\\Project_cDac\\HotelWebBackEnd\\wwwroot\\",
+      "BasePath": "_content/HotelWebBackEnd",
+      "RelativePath": "images/ad9a1810-2d56-4b4c-acdf-17520eeed042_1declaration#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "p3y8f193r6",
+      "Integrity": "Wz45Km4CLHv5BS3/j8od/8z913m7kbXbLC3tEMoQSxw=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\ad9a1810-2d56-4b4c-acdf-17520eeed042_1declaration.jpg"
+    },
+    {
+      "Identity": "D:\\C DAC\\A-CDAC Class notes and pdfs\\D. WebProgramming\\Project_cDac\\HotelWebBackEnd\\wwwroot\\images\\d21334e7-b694-44cb-9b0d-c88767195504_hotal.png",
+      "SourceId": "HotelWebBackEnd",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\C DAC\\A-CDAC Class notes and pdfs\\D. WebProgramming\\Project_cDac\\HotelWebBackEnd\\wwwroot\\",
+      "BasePath": "_content/HotelWebBackEnd",
+      "RelativePath": "images/d21334e7-b694-44cb-9b0d-c88767195504_hotal#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "9548wxxodc",
+      "Integrity": "/Rpd97bAEoZSgvKTikZSlU3VXMzNe5iOdw6M51tV558=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\d21334e7-b694-44cb-9b0d-c88767195504_hotal.png"
+    },
+    {
+      "Identity": "D:\\C DAC\\A-CDAC Class notes and pdfs\\D. WebProgramming\\Project_cDac\\HotelWebBackEnd\\wwwroot\\images\\d691725d-0c41-49d2-a800-16b30e8d2e71_hotel4.png",
+      "SourceId": "HotelWebBackEnd",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\C DAC\\A-CDAC Class notes and pdfs\\D. WebProgramming\\Project_cDac\\HotelWebBackEnd\\wwwroot\\",
+      "BasePath": "_content/HotelWebBackEnd",
+      "RelativePath": "images/d691725d-0c41-49d2-a800-16b30e8d2e71_hotel4#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "dj3e2xly1h",
+      "Integrity": "aT+iYhBYStJSXiukZzOLB4YyKyqmT3o0bDEFO8U92k4=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\d691725d-0c41-49d2-a800-16b30e8d2e71_hotel4.png"
+    },
+    {
+      "Identity": "D:\\C DAC\\A-CDAC Class notes and pdfs\\D. WebProgramming\\Project_cDac\\HotelWebBackEnd\\wwwroot\\images\\ec577032-ee90-434e-a516-32356995937d_1declaration.jpg",
+      "SourceId": "HotelWebBackEnd",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\C DAC\\A-CDAC Class notes and pdfs\\D. WebProgramming\\Project_cDac\\HotelWebBackEnd\\wwwroot\\",
+      "BasePath": "_content/HotelWebBackEnd",
+      "RelativePath": "images/ec577032-ee90-434e-a516-32356995937d_1declaration#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "p3y8f193r6",
+      "Integrity": "Wz45Km4CLHv5BS3/j8od/8z913m7kbXbLC3tEMoQSxw=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\ec577032-ee90-434e-a516-32356995937d_1declaration.jpg"
+    },
+    {
+      "Identity": "D:\\C DAC\\A-CDAC Class notes and pdfs\\D. WebProgramming\\Project_cDac\\HotelWebBackEnd\\wwwroot\\images\\f1869d88-ae09-4c02-a3ed-e3c435ddab82_hotal1.png",
+      "SourceId": "HotelWebBackEnd",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\C DAC\\A-CDAC Class notes and pdfs\\D. WebProgramming\\Project_cDac\\HotelWebBackEnd\\wwwroot\\",
+      "BasePath": "_content/HotelWebBackEnd",
+      "RelativePath": "images/f1869d88-ae09-4c02-a3ed-e3c435ddab82_hotal1#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "b5zq854ucc",
+      "Integrity": "bzApE/JfLVof4RP8lrntJRbYwXdH8GVlZbJxdox4Dw0=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\f1869d88-ae09-4c02-a3ed-e3c435ddab82_hotal1.png"
+    },
+    {
+      "Identity": "D:\\C DAC\\A-CDAC Class notes and pdfs\\D. WebProgramming\\Project_cDac\\HotelWebBackEnd\\wwwroot\\images\\f1a9377a-a3c3-4575-bdf2-85faa54987b6_hotal.png",
+      "SourceId": "HotelWebBackEnd",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\C DAC\\A-CDAC Class notes and pdfs\\D. WebProgramming\\Project_cDac\\HotelWebBackEnd\\wwwroot\\",
+      "BasePath": "_content/HotelWebBackEnd",
+      "RelativePath": "images/f1a9377a-a3c3-4575-bdf2-85faa54987b6_hotal#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "9548wxxodc",
+      "Integrity": "/Rpd97bAEoZSgvKTikZSlU3VXMzNe5iOdw6M51tV558=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\f1a9377a-a3c3-4575-bdf2-85faa54987b6_hotal.png"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "images/0100bb16-bccd-4236-8fda-a781c5d94e77_hotal.9548wxxodc.png",
+      "AssetFile": "D:\\C DAC\\A-CDAC Class notes and pdfs\\D. WebProgramming\\Project_cDac\\HotelWebBackEnd\\wwwroot\\images\\0100bb16-bccd-4236-8fda-a781c5d94e77_hotal.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "68548"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"/Rpd97bAEoZSgvKTikZSlU3VXMzNe5iOdw6M51tV558=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 14 Feb 2025 20:26:24 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "9548wxxodc"
+        },
+        {
+          "Name": "label",
+          "Value": "images/0100bb16-bccd-4236-8fda-a781c5d94e77_hotal.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-/Rpd97bAEoZSgvKTikZSlU3VXMzNe5iOdw6M51tV558="
+        }
+      ]
+    },
+    {
+      "Route": "images/0100bb16-bccd-4236-8fda-a781c5d94e77_hotal.png",
+      "AssetFile": "D:\\C DAC\\A-CDAC Class notes and pdfs\\D. WebProgramming\\Project_cDac\\HotelWebBackEnd\\wwwroot\\images\\0100bb16-bccd-4236-8fda-a781c5d94e77_hotal.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "68548"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"/Rpd97bAEoZSgvKTikZSlU3VXMzNe5iOdw6M51tV558=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 14 Feb 2025 20:26:24 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-/Rpd97bAEoZSgvKTikZSlU3VXMzNe5iOdw6M51tV558="
+        }
+      ]
+    },
+    {
+      "Route": "images/09575ad3-e462-4b6e-b3cb-47924198acd1_hotel4.dj3e2xly1h.png",
+      "AssetFile": "D:\\C DAC\\A-CDAC Class notes and pdfs\\D. WebProgramming\\Project_cDac\\HotelWebBackEnd\\wwwroot\\images\\09575ad3-e462-4b6e-b3cb-47924198acd1_hotel4.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "38507"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"aT+iYhBYStJSXiukZzOLB4YyKyqmT3o0bDEFO8U92k4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 14 Feb 2025 15:06:57 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "dj3e2xly1h"
+        },
+        {
+          "Name": "label",
+          "Value": "images/09575ad3-e462-4b6e-b3cb-47924198acd1_hotel4.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-aT+iYhBYStJSXiukZzOLB4YyKyqmT3o0bDEFO8U92k4="
+        }
+      ]
+    },
+    {
+      "Route": "images/09575ad3-e462-4b6e-b3cb-47924198acd1_hotel4.png",
+      "AssetFile": "D:\\C DAC\\A-CDAC Class notes and pdfs\\D. WebProgramming\\Project_cDac\\HotelWebBackEnd\\wwwroot\\images\\09575ad3-e462-4b6e-b3cb-47924198acd1_hotel4.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "38507"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"aT+iYhBYStJSXiukZzOLB4YyKyqmT3o0bDEFO8U92k4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 14 Feb 2025 15:06:57 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-aT+iYhBYStJSXiukZzOLB4YyKyqmT3o0bDEFO8U92k4="
+        }
+      ]
+    },
+    {
+      "Route": "images/14bc989a-41c7-4c58-8026-dc23873903d2_selfdeclaration.jpg",
+      "AssetFile": "D:\\C DAC\\A-CDAC Class notes and pdfs\\D. WebProgramming\\Project_cDac\\HotelWebBackEnd\\wwwroot\\images\\14bc989a-41c7-4c58-8026-dc23873903d2_selfdeclaration.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "73684"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"0InBY8rXCwKqoF4X72ZL2opZ5wI6fMfTRRstmz1sI60=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 13 Feb 2025 13:36:50 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-0InBY8rXCwKqoF4X72ZL2opZ5wI6fMfTRRstmz1sI60="
+        }
+      ]
+    },
+    {
+      "Route": "images/14bc989a-41c7-4c58-8026-dc23873903d2_selfdeclaration.omwksi7cm6.jpg",
+      "AssetFile": "D:\\C DAC\\A-CDAC Class notes and pdfs\\D. WebProgramming\\Project_cDac\\HotelWebBackEnd\\wwwroot\\images\\14bc989a-41c7-4c58-8026-dc23873903d2_selfdeclaration.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "73684"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"0InBY8rXCwKqoF4X72ZL2opZ5wI6fMfTRRstmz1sI60=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 13 Feb 2025 13:36:50 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "omwksi7cm6"
+        },
+        {
+          "Name": "label",
+          "Value": "images/14bc989a-41c7-4c58-8026-dc23873903d2_selfdeclaration.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-0InBY8rXCwKqoF4X72ZL2opZ5wI6fMfTRRstmz1sI60="
+        }
+      ]
+    },
+    {
+      "Route": "images/3738209d-1a75-435c-9895-eb0554f5f743_hotal.9548wxxodc.png",
+      "AssetFile": "D:\\C DAC\\A-CDAC Class notes and pdfs\\D. WebProgramming\\Project_cDac\\HotelWebBackEnd\\wwwroot\\images\\3738209d-1a75-435c-9895-eb0554f5f743_hotal.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "68548"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"/Rpd97bAEoZSgvKTikZSlU3VXMzNe5iOdw6M51tV558=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 14 Feb 2025 14:42:48 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "9548wxxodc"
+        },
+        {
+          "Name": "label",
+          "Value": "images/3738209d-1a75-435c-9895-eb0554f5f743_hotal.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-/Rpd97bAEoZSgvKTikZSlU3VXMzNe5iOdw6M51tV558="
+        }
+      ]
+    },
+    {
+      "Route": "images/3738209d-1a75-435c-9895-eb0554f5f743_hotal.png",
+      "AssetFile": "D:\\C DAC\\A-CDAC Class notes and pdfs\\D. WebProgramming\\Project_cDac\\HotelWebBackEnd\\wwwroot\\images\\3738209d-1a75-435c-9895-eb0554f5f743_hotal.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "68548"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"/Rpd97bAEoZSgvKTikZSlU3VXMzNe5iOdw6M51tV558=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 14 Feb 2025 14:42:48 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-/Rpd97bAEoZSgvKTikZSlU3VXMzNe5iOdw6M51tV558="
+        }
+      ]
+    },
+    {
+      "Route": "images/55b8d066-ef34-49b2-a7ed-86197762c4a1_hotal8.8yuknbl8wv.png",
+      "AssetFile": "D:\\C DAC\\A-CDAC Class notes and pdfs\\D. WebProgramming\\Project_cDac\\HotelWebBackEnd\\wwwroot\\images\\55b8d066-ef34-49b2-a7ed-86197762c4a1_hotal8.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "72648"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"UFOkhzCMVkviSdsFtveVK2FbDB8EM174uZKgjkXm1Jo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 14 Feb 2025 08:02:00 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "8yuknbl8wv"
+        },
+        {
+          "Name": "label",
+          "Value": "images/55b8d066-ef34-49b2-a7ed-86197762c4a1_hotal8.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-UFOkhzCMVkviSdsFtveVK2FbDB8EM174uZKgjkXm1Jo="
+        }
+      ]
+    },
+    {
+      "Route": "images/55b8d066-ef34-49b2-a7ed-86197762c4a1_hotal8.png",
+      "AssetFile": "D:\\C DAC\\A-CDAC Class notes and pdfs\\D. WebProgramming\\Project_cDac\\HotelWebBackEnd\\wwwroot\\images\\55b8d066-ef34-49b2-a7ed-86197762c4a1_hotal8.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "72648"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"UFOkhzCMVkviSdsFtveVK2FbDB8EM174uZKgjkXm1Jo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 14 Feb 2025 08:02:00 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-UFOkhzCMVkviSdsFtveVK2FbDB8EM174uZKgjkXm1Jo="
+        }
+      ]
+    },
+    {
+      "Route": "images/6b9f92c2-73b3-4bf6-a5a7-6f7a3da07fd5_hotal.9548wxxodc.png",
+      "AssetFile": "D:\\C DAC\\A-CDAC Class notes and pdfs\\D. WebProgramming\\Project_cDac\\HotelWebBackEnd\\wwwroot\\images\\6b9f92c2-73b3-4bf6-a5a7-6f7a3da07fd5_hotal.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "68548"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"/Rpd97bAEoZSgvKTikZSlU3VXMzNe5iOdw6M51tV558=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 14 Feb 2025 15:03:13 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "9548wxxodc"
+        },
+        {
+          "Name": "label",
+          "Value": "images/6b9f92c2-73b3-4bf6-a5a7-6f7a3da07fd5_hotal.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-/Rpd97bAEoZSgvKTikZSlU3VXMzNe5iOdw6M51tV558="
+        }
+      ]
+    },
+    {
+      "Route": "images/6b9f92c2-73b3-4bf6-a5a7-6f7a3da07fd5_hotal.png",
+      "AssetFile": "D:\\C DAC\\A-CDAC Class notes and pdfs\\D. WebProgramming\\Project_cDac\\HotelWebBackEnd\\wwwroot\\images\\6b9f92c2-73b3-4bf6-a5a7-6f7a3da07fd5_hotal.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "68548"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"/Rpd97bAEoZSgvKTikZSlU3VXMzNe5iOdw6M51tV558=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 14 Feb 2025 15:03:13 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-/Rpd97bAEoZSgvKTikZSlU3VXMzNe5iOdw6M51tV558="
+        }
+      ]
+    },
+    {
+      "Route": "images/70542fdf-ac02-4803-a1c5-2bb2cad147aa_hotel9.cbmrcthjtf.png",
+      "AssetFile": "D:\\C DAC\\A-CDAC Class notes and pdfs\\D. WebProgramming\\Project_cDac\\HotelWebBackEnd\\wwwroot\\images\\70542fdf-ac02-4803-a1c5-2bb2cad147aa_hotel9.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "80853"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"SGasJwdAya2qbg8VLM72IGo+xg4YZ9xWK2HeWf3RjgU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 15 Feb 2025 11:34:05 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "cbmrcthjtf"
+        },
+        {
+          "Name": "label",
+          "Value": "images/70542fdf-ac02-4803-a1c5-2bb2cad147aa_hotel9.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-SGasJwdAya2qbg8VLM72IGo+xg4YZ9xWK2HeWf3RjgU="
+        }
+      ]
+    },
+    {
+      "Route": "images/70542fdf-ac02-4803-a1c5-2bb2cad147aa_hotel9.png",
+      "AssetFile": "D:\\C DAC\\A-CDAC Class notes and pdfs\\D. WebProgramming\\Project_cDac\\HotelWebBackEnd\\wwwroot\\images\\70542fdf-ac02-4803-a1c5-2bb2cad147aa_hotel9.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "80853"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"SGasJwdAya2qbg8VLM72IGo+xg4YZ9xWK2HeWf3RjgU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 15 Feb 2025 11:34:05 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-SGasJwdAya2qbg8VLM72IGo+xg4YZ9xWK2HeWf3RjgU="
+        }
+      ]
+    },
+    {
+      "Route": "images/9dfb19c2-ce58-4e6b-8911-490d293c11eb_hotal2.cbowggyxhb.png",
+      "AssetFile": "D:\\C DAC\\A-CDAC Class notes and pdfs\\D. WebProgramming\\Project_cDac\\HotelWebBackEnd\\wwwroot\\images\\9dfb19c2-ce58-4e6b-8911-490d293c11eb_hotal2.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2070235"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"GPP+Vm/2OSAViNRRZeGed9HYobZJwmDC63VKmf+rA/c=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 15 Feb 2025 05:56:43 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "cbowggyxhb"
+        },
+        {
+          "Name": "label",
+          "Value": "images/9dfb19c2-ce58-4e6b-8911-490d293c11eb_hotal2.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-GPP+Vm/2OSAViNRRZeGed9HYobZJwmDC63VKmf+rA/c="
+        }
+      ]
+    },
+    {
+      "Route": "images/9dfb19c2-ce58-4e6b-8911-490d293c11eb_hotal2.png",
+      "AssetFile": "D:\\C DAC\\A-CDAC Class notes and pdfs\\D. WebProgramming\\Project_cDac\\HotelWebBackEnd\\wwwroot\\images\\9dfb19c2-ce58-4e6b-8911-490d293c11eb_hotal2.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2070235"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"GPP+Vm/2OSAViNRRZeGed9HYobZJwmDC63VKmf+rA/c=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 15 Feb 2025 05:56:43 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-GPP+Vm/2OSAViNRRZeGed9HYobZJwmDC63VKmf+rA/c="
+        }
+      ]
+    },
+    {
+      "Route": "images/abdea0e4-92dc-437a-9865-7da378ca5c8d_hotal9.6m63s8n5fa.png",
+      "AssetFile": "D:\\C DAC\\A-CDAC Class notes and pdfs\\D. WebProgramming\\Project_cDac\\HotelWebBackEnd\\wwwroot\\images\\abdea0e4-92dc-437a-9865-7da378ca5c8d_hotal9.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "74198"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"wk+i4sUPWtP5rOBne48mJqZW/Onc1cVspu5zERlLCY0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 14 Feb 2025 21:01:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "6m63s8n5fa"
+        },
+        {
+          "Name": "label",
+          "Value": "images/abdea0e4-92dc-437a-9865-7da378ca5c8d_hotal9.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-wk+i4sUPWtP5rOBne48mJqZW/Onc1cVspu5zERlLCY0="
+        }
+      ]
+    },
+    {
+      "Route": "images/abdea0e4-92dc-437a-9865-7da378ca5c8d_hotal9.png",
+      "AssetFile": "D:\\C DAC\\A-CDAC Class notes and pdfs\\D. WebProgramming\\Project_cDac\\HotelWebBackEnd\\wwwroot\\images\\abdea0e4-92dc-437a-9865-7da378ca5c8d_hotal9.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "74198"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"wk+i4sUPWtP5rOBne48mJqZW/Onc1cVspu5zERlLCY0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 14 Feb 2025 21:01:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-wk+i4sUPWtP5rOBne48mJqZW/Onc1cVspu5zERlLCY0="
+        }
+      ]
+    },
+    {
+      "Route": "images/ad9a1810-2d56-4b4c-acdf-17520eeed042_1declaration.jpg",
+      "AssetFile": "D:\\C DAC\\A-CDAC Class notes and pdfs\\D. WebProgramming\\Project_cDac\\HotelWebBackEnd\\wwwroot\\images\\ad9a1810-2d56-4b4c-acdf-17520eeed042_1declaration.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "41057"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Wz45Km4CLHv5BS3/j8od/8z913m7kbXbLC3tEMoQSxw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 13 Feb 2025 13:52:25 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Wz45Km4CLHv5BS3/j8od/8z913m7kbXbLC3tEMoQSxw="
+        }
+      ]
+    },
+    {
+      "Route": "images/ad9a1810-2d56-4b4c-acdf-17520eeed042_1declaration.p3y8f193r6.jpg",
+      "AssetFile": "D:\\C DAC\\A-CDAC Class notes and pdfs\\D. WebProgramming\\Project_cDac\\HotelWebBackEnd\\wwwroot\\images\\ad9a1810-2d56-4b4c-acdf-17520eeed042_1declaration.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "41057"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Wz45Km4CLHv5BS3/j8od/8z913m7kbXbLC3tEMoQSxw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 13 Feb 2025 13:52:25 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "p3y8f193r6"
+        },
+        {
+          "Name": "label",
+          "Value": "images/ad9a1810-2d56-4b4c-acdf-17520eeed042_1declaration.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Wz45Km4CLHv5BS3/j8od/8z913m7kbXbLC3tEMoQSxw="
+        }
+      ]
+    },
+    {
+      "Route": "images/d21334e7-b694-44cb-9b0d-c88767195504_hotal.9548wxxodc.png",
+      "AssetFile": "D:\\C DAC\\A-CDAC Class notes and pdfs\\D. WebProgramming\\Project_cDac\\HotelWebBackEnd\\wwwroot\\images\\d21334e7-b694-44cb-9b0d-c88767195504_hotal.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "68548"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"/Rpd97bAEoZSgvKTikZSlU3VXMzNe5iOdw6M51tV558=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 14 Feb 2025 14:49:30 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "9548wxxodc"
+        },
+        {
+          "Name": "label",
+          "Value": "images/d21334e7-b694-44cb-9b0d-c88767195504_hotal.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-/Rpd97bAEoZSgvKTikZSlU3VXMzNe5iOdw6M51tV558="
+        }
+      ]
+    },
+    {
+      "Route": "images/d21334e7-b694-44cb-9b0d-c88767195504_hotal.png",
+      "AssetFile": "D:\\C DAC\\A-CDAC Class notes and pdfs\\D. WebProgramming\\Project_cDac\\HotelWebBackEnd\\wwwroot\\images\\d21334e7-b694-44cb-9b0d-c88767195504_hotal.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "68548"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"/Rpd97bAEoZSgvKTikZSlU3VXMzNe5iOdw6M51tV558=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 14 Feb 2025 14:49:30 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-/Rpd97bAEoZSgvKTikZSlU3VXMzNe5iOdw6M51tV558="
+        }
+      ]
+    },
+    {
+      "Route": "images/d691725d-0c41-49d2-a800-16b30e8d2e71_hotel4.dj3e2xly1h.png",
+      "AssetFile": "D:\\C DAC\\A-CDAC Class notes and pdfs\\D. WebProgramming\\Project_cDac\\HotelWebBackEnd\\wwwroot\\images\\d691725d-0c41-49d2-a800-16b30e8d2e71_hotel4.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "38507"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"aT+iYhBYStJSXiukZzOLB4YyKyqmT3o0bDEFO8U92k4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 14 Feb 2025 20:43:38 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "dj3e2xly1h"
+        },
+        {
+          "Name": "label",
+          "Value": "images/d691725d-0c41-49d2-a800-16b30e8d2e71_hotel4.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-aT+iYhBYStJSXiukZzOLB4YyKyqmT3o0bDEFO8U92k4="
+        }
+      ]
+    },
+    {
+      "Route": "images/d691725d-0c41-49d2-a800-16b30e8d2e71_hotel4.png",
+      "AssetFile": "D:\\C DAC\\A-CDAC Class notes and pdfs\\D. WebProgramming\\Project_cDac\\HotelWebBackEnd\\wwwroot\\images\\d691725d-0c41-49d2-a800-16b30e8d2e71_hotel4.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "38507"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"aT+iYhBYStJSXiukZzOLB4YyKyqmT3o0bDEFO8U92k4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 14 Feb 2025 20:43:38 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-aT+iYhBYStJSXiukZzOLB4YyKyqmT3o0bDEFO8U92k4="
+        }
+      ]
+    },
+    {
+      "Route": "images/ec577032-ee90-434e-a516-32356995937d_1declaration.jpg",
+      "AssetFile": "D:\\C DAC\\A-CDAC Class notes and pdfs\\D. WebProgramming\\Project_cDac\\HotelWebBackEnd\\wwwroot\\images\\ec577032-ee90-434e-a516-32356995937d_1declaration.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "41057"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Wz45Km4CLHv5BS3/j8od/8z913m7kbXbLC3tEMoQSxw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 13 Feb 2025 13:34:49 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Wz45Km4CLHv5BS3/j8od/8z913m7kbXbLC3tEMoQSxw="
+        }
+      ]
+    },
+    {
+      "Route": "images/ec577032-ee90-434e-a516-32356995937d_1declaration.p3y8f193r6.jpg",
+      "AssetFile": "D:\\C DAC\\A-CDAC Class notes and pdfs\\D. WebProgramming\\Project_cDac\\HotelWebBackEnd\\wwwroot\\images\\ec577032-ee90-434e-a516-32356995937d_1declaration.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "41057"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Wz45Km4CLHv5BS3/j8od/8z913m7kbXbLC3tEMoQSxw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 13 Feb 2025 13:34:49 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "p3y8f193r6"
+        },
+        {
+          "Name": "label",
+          "Value": "images/ec577032-ee90-434e-a516-32356995937d_1declaration.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Wz45Km4CLHv5BS3/j8od/8z913m7kbXbLC3tEMoQSxw="
+        }
+      ]
+    },
+    {
+      "Route": "images/f1869d88-ae09-4c02-a3ed-e3c435ddab82_hotal1.b5zq854ucc.png",
+      "AssetFile": "D:\\C DAC\\A-CDAC Class notes and pdfs\\D. WebProgramming\\Project_cDac\\HotelWebBackEnd\\wwwroot\\images\\f1869d88-ae09-4c02-a3ed-e3c435ddab82_hotal1.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "146658"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"bzApE/JfLVof4RP8lrntJRbYwXdH8GVlZbJxdox4Dw0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 14 Feb 2025 15:04:19 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "b5zq854ucc"
+        },
+        {
+          "Name": "label",
+          "Value": "images/f1869d88-ae09-4c02-a3ed-e3c435ddab82_hotal1.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-bzApE/JfLVof4RP8lrntJRbYwXdH8GVlZbJxdox4Dw0="
+        }
+      ]
+    },
+    {
+      "Route": "images/f1869d88-ae09-4c02-a3ed-e3c435ddab82_hotal1.png",
+      "AssetFile": "D:\\C DAC\\A-CDAC Class notes and pdfs\\D. WebProgramming\\Project_cDac\\HotelWebBackEnd\\wwwroot\\images\\f1869d88-ae09-4c02-a3ed-e3c435ddab82_hotal1.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "146658"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"bzApE/JfLVof4RP8lrntJRbYwXdH8GVlZbJxdox4Dw0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 14 Feb 2025 15:04:19 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-bzApE/JfLVof4RP8lrntJRbYwXdH8GVlZbJxdox4Dw0="
+        }
+      ]
+    },
+    {
+      "Route": "images/f1a9377a-a3c3-4575-bdf2-85faa54987b6_hotal.9548wxxodc.png",
+      "AssetFile": "D:\\C DAC\\A-CDAC Class notes and pdfs\\D. WebProgramming\\Project_cDac\\HotelWebBackEnd\\wwwroot\\images\\f1a9377a-a3c3-4575-bdf2-85faa54987b6_hotal.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "68548"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"/Rpd97bAEoZSgvKTikZSlU3VXMzNe5iOdw6M51tV558=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 14 Feb 2025 13:31:48 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "9548wxxodc"
+        },
+        {
+          "Name": "label",
+          "Value": "images/f1a9377a-a3c3-4575-bdf2-85faa54987b6_hotal.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-/Rpd97bAEoZSgvKTikZSlU3VXMzNe5iOdw6M51tV558="
+        }
+      ]
+    },
+    {
+      "Route": "images/f1a9377a-a3c3-4575-bdf2-85faa54987b6_hotal.png",
+      "AssetFile": "D:\\C DAC\\A-CDAC Class notes and pdfs\\D. WebProgramming\\Project_cDac\\HotelWebBackEnd\\wwwroot\\images\\f1a9377a-a3c3-4575-bdf2-85faa54987b6_hotal.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "68548"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"/Rpd97bAEoZSgvKTikZSlU3VXMzNe5iOdw6M51tV558=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 14 Feb 2025 13:31:48 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-/Rpd97bAEoZSgvKTikZSlU3VXMzNe5iOdw6M51tV558="
+        }
+      ]
+    }
+  ]
 }

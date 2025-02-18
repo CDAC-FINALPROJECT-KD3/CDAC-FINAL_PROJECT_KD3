@@ -10,6 +10,10 @@ namespace HotelWebBackEnd.DataBase
         public DbSet<Emp> emps { get; set; }
         public DbSet<User> users { get; set; }
         public DbSet<Hotels> hotels { get; set; }
+        public DbSet<Room> rooms { get; set; }
+        public DbSet<RoomCategory> roomCategory { get; set; }
+        public DbSet<Booking> bookings { get; set; }
+
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
             base.OnModelCreating(modelBuilder);
